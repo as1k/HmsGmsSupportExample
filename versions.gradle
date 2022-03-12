@@ -1,0 +1,18 @@
+ext {
+
+    versions = [
+
+            minSdk             : 21,
+            compileSdk         : 31,
+
+            gradlePlugin       : '7.1.1',
+            gmsServicesPlugin  : '4.3.8',
+
+            kotlin             : '1.5.21',
+
+            gmsLocation        : '18.0.0',
+
+            hms                : '1.5.2.300',
+            hmsLocation        : '4.0.0.300'
+    ]
+}

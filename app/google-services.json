@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311093803460",
+    "project_id": "hmsgmssupportexample2",
+    "storage_bucket": "hmsgmssupportexample2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311093803460:android:7a5d8e6c40e7242aebcc91",
+        "android_client_info": {
+          "package_name": "com.asik.hmsgmssupportexample2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311093803460-jpifnb92dkqe6er29bn2il5uphp6j7in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKPWyt1d3inWXpDlvzb-F3YVmSjJamtlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311093803460-jpifnb92dkqe6er29bn2il5uphp6j7in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

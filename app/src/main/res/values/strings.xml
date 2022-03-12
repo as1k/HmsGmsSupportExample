@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HmsGmsSupportExample2</string>
+    <string name="get_location">Get user location</string>
+</resources>
